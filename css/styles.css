@@ -647,6 +647,7 @@ img {
 
 .filter-item:hover .overlay {
     transform: translateY(0%);
+    
 }
 .overlay {
     position: absolute;
